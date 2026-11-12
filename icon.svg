@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Unseen Warfare — three-bar cross">
+  <rect width="512" height="512" rx="104" fill="#252a27"/>
+  <g fill="none" stroke="#f8f6f0" stroke-width="22" stroke-linecap="round">
+    <path d="M256 92v330"/>
+    <path d="M206 142h100"/>
+    <path d="M166 210h180"/>
+    <path d="M200 352l112-40"/>
+  </g>
+</svg>
